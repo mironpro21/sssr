@@ -5,7 +5,6 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div class="bg-black m-11 text-red-800">
     123
-
   </div>
 
 </template>
